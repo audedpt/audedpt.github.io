@@ -9,7 +9,7 @@
 
 ---
 [Météo des miellées](/pdf/204_TECHNOLOGIE.pdf)
-<img src="images/mois_pluie_dt.png?raw=true"/>
+<img src="images/mois_pluie_dt.png"/>
 
 ---
 [Project 3 Title](http://example.com/)
