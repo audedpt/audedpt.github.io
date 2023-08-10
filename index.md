@@ -21,7 +21,7 @@
 
 - [Ethic IA](https://ethique.ig.umons.ac.be/posts/2018-2019/D/index.html)
 - [Moovic, motion sounding tool for gesture recognition ](https://youtu.be/qJFC17VqnXc)
-- [Project 3 Title](http://example.com/)
+- [Apprentissage par renforcement pour diriger une fusée dans un jeu](http://example.com/)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
 
