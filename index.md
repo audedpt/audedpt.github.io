@@ -19,7 +19,7 @@
 
 ### Category Name 2
 
-- [Ethic IA](http://example.com/)
+- [Ethic IA](https://ethique.ig.umons.ac.be/posts/2018-2019/D/index.html)
 - [Moovic, motion sounding tool for gesture recognition ](https://youtu.be/qJFC17VqnXc)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
