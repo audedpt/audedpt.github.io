@@ -4,23 +4,23 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
+[PairIA](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Météo des miellées](/pdf/204_TECHNOLOGIE.pdf)
+[Technology at the service of beekeeping, predictive analysis of honey flow according to meteorological parameters](/pdf/204_TECHNOLOGIE.pdf)
 <img src="images/mois_pluie_dt.png"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Object recognition with a humanoid robot ](https://youtu.be/oR90AfM_8Po)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
 ### Category Name 2
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
+- [Ethic IA](http://example.com/)
+- [Moovic, motion sounding tool for gesture recognition ](https://youtu.be/qJFC17VqnXc)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
