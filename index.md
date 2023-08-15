@@ -4,7 +4,8 @@
 
 ### Category Name 1 
 
-### [PairIA](/sample_page)
+### [Recognizoo](/sample_page)
+This project involves training a neural network based on MobileNet architecture to identify not only the species of animal but also the specific individual being cared for in an animal park. To implement a POC, we collaborated with Pairi Daiza, who helped us collect an image database of their elephant family. 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
