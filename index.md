@@ -5,11 +5,12 @@
 ### Category Name 1 
 
 ### [Recognizoo](/sample_page)
-This project involves training a neural network based on MobileNet architecture to identify not only the species of animal but also the specific individual being cared for in an animal park. To implement a POC, we collaborated with Pairi Daiza, who helped us collect an image database of their elephant family. 
+This project involves training a neural network based on MobileNet architecture to identify not only the species of animal but also the specific individual being cared for in an animal park. To implement a POC, we collaborated with [Pairi Daiza](https://www.pairidaiza.eu/fr/decouvrir-le-parc), who helped us collect an image database of their elephant family. 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 ### [Technology at the service of beekeeping, predictive analysis of honey flow according to meteorological parameters](/pdf/204_TECHNOLOGIE.pdf)
+En collaboration avec le [Cari](https://cari.be/-Qui-sommes-nous-.html?lang=fr)
 <img src="images/mois_pluie_dt.png"/>
 
 ---
