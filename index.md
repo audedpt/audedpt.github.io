@@ -22,7 +22,7 @@
 - [Ethic IA](https://ethique.ig.umons.ac.be/posts/2018-2019/D/index.html)
 - [Moovic, motion sounding tool for gesture recognition ](https://youtu.be/qJFC17VqnXc)
 - [Apprentissage par renforcement pour diriger une fusée dans un jeu](http://example.com/)
-  A PC game in which the player must land a rocket safely on Earth by adjusting the engine's power while ensuring he has enough fuel.  In this project, I train an agent to play that game by reinforcment learning so that he gets a high score. 
+A PC game in which the player must land a rocket safely on Earth by adjusting the engine's power while ensuring he has enough fuel.  In this project, I train an agent to play that game by reinforcment learning so that he gets a high score. 
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
 
