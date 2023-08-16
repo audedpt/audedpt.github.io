@@ -25,7 +25,7 @@ En collaboration avec le [Cari](https://cari.be/-Qui-sommes-nous-.html?lang=fr)
 - [Moovic, motion sounding tool for gesture recognition ](https://youtu.be/qJFC17VqnXc)
 - [Apprentissage par renforcement pour diriger une fusée dans un jeu](http://example.com/)
 A PC game in which the player must land a rocket safely on Earth by adjusting the engine's power while ensuring he has enough fuel.  In this project, I train an agent to play that game by reinforcment learning so that he gets a high score. 
-- [Project 4 Title](http://example.com/)
+- [Fraud detection in Delhaize stores](http://example.com/)
 - [Project 5 Title](http://example.com/)
 
 ---
