@@ -10,7 +10,10 @@ Modélisation de la production de miel d’un rucher selon des données météor
 [Read article](/pdf/204_TECHNOLOGIE.pdf) 
 
 ---
-###[Fraud detection in Delhaize stores]
+### Fraud detection in Delhaize stores
+Elaborate a dashboard for Fraud detection in the undelivered goods claiming process. This project required to elaborate a dimentional data model and to translate the business's KPI into visualisations. The aim was to accellerate the investigation process on the suspicious stores and to gather more data on actual fraudulent cases. 
+
+<img src="images/stage_thumbnail.png?raw=true"/>
 
 ---
 ### [Recognizoo, Outil d’identification d’individus au sein d’un groupe d’animaux](/sample_page)
@@ -24,18 +27,18 @@ This project involves training a neural network based on MobileNet architecture 
 
 ---
 ### Object recognition with a humanoid robot
-Intégration de YOLO V2 pour la classification et la reconnaissance d’objet en temps réel avec un robot Pepper.
+Integrate YOLO V2 into humanoïd robot Pepper for classification and object recognition in real time.
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 [View project presentation on Youtube](https://youtu.be/oR90AfM_8Po)
 
 ---
-### Apprentissage par renforcement pour diriger une fusée dans un jeu
-A PC game in which the player must land a rocket safely on Earth by adjusting the engine's power while ensuring he has enough fuel.  In this project, I train an agent to play that game by reinforcment learning so that he gets a high score. 
+### Rocket landing with reinforcment learning
+A PC game in which the player must land a rocket safely on Earth by adjusting the engine's power while ensuring he has enough fuel.  In this project, I train an agent to play that game by reinforcment learning (Q-Learning) so that he gets a high score. 
 
 ---
-### Category Name 2
+### Other works
 
-- [Ethic IA](https://ethique.ig.umons.ac.be/posts/2018-2019/D/index.html)
-- [Moovic, motion sounding tool for gesture recognition ](https://youtu.be/qJFC17VqnXc)
+- [Blog post : Ethical Analysis of Artificial Super Intelligence](https://ethique.ig.umons.ac.be/posts/2018-2019/D/index.html)
+- [Moovic, motion sounding tool for gesture recognition](https://youtu.be/qJFC17VqnXc)
