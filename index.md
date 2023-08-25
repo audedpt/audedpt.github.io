@@ -10,7 +10,7 @@ Modélisation de la production de miel d’un rucher selon des données météor
 
 ### [Recognizoo, Outil d’identification d’individus au sein d’un groupe d’animaux](/sample_page)
 This project involves training a neural network based on MobileNet architecture to identify an elephent as an individual  among its fellow creatures in an animal park. To implement a POC, we collaborated with [Pairi Daiza](https://www.pairidaiza.eu/fr/decouvrir-le-parc), who helped us collect an image database of their elephant family. 
-<img src="images/Recognizoo_mockup.jpg?raw=true"/>
+<img src="images/Recognizoo_mockup.jpg?raw=true" height="300"/>
 [View code on Colab](https://colab.research.google.com/drive/1XUHkSbvqFyno_E0IPejy4dIR3VTwnklE?authuser=2#scrollTo=w5lEUuHg5WOr)
 
 ---
