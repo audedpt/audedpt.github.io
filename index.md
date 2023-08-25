@@ -1,19 +1,17 @@
-## Portfolio
-
----
-
-### Category Name 1 
-
-### [Recognizoo, Outil d’identification d’individus au sein d’un groupe d’animaux](/sample_page)
-This project involves training a neural network based on MobileNet architecture to identify not only the species of animal but also the specific individual being cared for in an animal park. To implement a POC, we collaborated with [Pairi Daiza](https://www.pairidaiza.eu/fr/decouvrir-le-parc), who helped us collect an image database of their elephant family. 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-Élaboration d’un POC  pour la reconnaissance d’un éléphant en tant qu’individus parmi ses semblables dans un parc animalier. Collection des images et entrainement d’un réseau de neurones basé sur le modèle MobileNet.    
+## Selected project in data science and machine learning
 
 ---
 ### [Technology at the service of beekeeping, predictive analysis of honey flow according to meteorological parameters](/pdf/204_TECHNOLOGIE.pdf)
 En collaboration avec le [Cari](https://cari.be/-Qui-sommes-nous-.html?lang=fr)
 Modélisation de la production de miel d’un rucher selon des données météorologiques et de balances apicoles. Nettoyage, analyse des données et apprentissage supervisé avec un arbre de décision.
 <img src="images/mois_pluie_dt.png"/>
+
+---
+
+### [Recognizoo, Outil d’identification d’individus au sein d’un groupe d’animaux](/sample_page)
+This project involves training a neural network based on MobileNet architecture to identify an elephent as an individual  among its fellow creatures in an animal park. To implement a POC, we collaborated with [Pairi Daiza](https://www.pairidaiza.eu/fr/decouvrir-le-parc), who helped us collect an image database of their elephant family. 
+<img src="images/Recognizoo_mockup.jpg?raw=true"/>
+[View code on Colab](https://colab.research.google.com/drive/1XUHkSbvqFyno_E0IPejy4dIR3VTwnklE?authuser=2#scrollTo=w5lEUuHg5WOr)
 
 ---
 ### [Object recognition with a humanoid robot ](https://youtu.be/oR90AfM_8Po)
