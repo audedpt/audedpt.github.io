@@ -1,11 +1,13 @@
 ## Selected project in data science and machine learning
 
 ---
-### [Technology at the service of beekeeping, predictive analysis of honey flow according to meteorological parameters](/pdf/204_TECHNOLOGIE.pdf)
+### Technology at the service of beekeeping, predictive analysis of honey flow according to meteorological parameters
 En collaboration avec le [Cari](https://cari.be/-Qui-sommes-nous-.html?lang=fr)
 Modélisation de la production de miel d’un rucher selon des données météorologiques et de balances apicoles. Nettoyage, analyse des données et apprentissage supervisé avec un arbre de décision.
 
 <img src="images/mois_pluie_dt.png"/>
+
+[Read article](/pdf/204_TECHNOLOGIE.pdf) 
 
 ---
 ###[Fraud detection in Delhaize stores]
@@ -29,7 +31,7 @@ Intégration de YOLO V2 pour la classification et la reconnaissance d’objet en
 [View project presentation on Youtube](https://youtu.be/oR90AfM_8Po)
 
 ---
-### [Apprentissage par renforcement pour diriger une fusée dans un jeu](http://example.com/)
+### Apprentissage par renforcement pour diriger une fusée dans un jeu
 A PC game in which the player must land a rocket safely on Earth by adjusting the engine's power while ensuring he has enough fuel.  In this project, I train an agent to play that game by reinforcment learning so that he gets a high score. 
 
 ---
