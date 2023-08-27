@@ -2,8 +2,7 @@
 
 ---
 ### Technology at the service of beekeeping, predictive analysis of honey flow according to meteorological parameters
-En collaboration avec le [Cari](https://cari.be/-Qui-sommes-nous-.html?lang=fr)
-Modélisation de la production de miel d’un rucher selon des données météorologiques et de balances apicoles. Nettoyage, analyse des données et apprentissage supervisé avec un arbre de décision.
+Modelling of honey production from a hive according to meteorological data and beekeeping scales. Cleaning, data analysis and supervised learning with a decision tree. This project was made in collaboration with the [Cari](https://cari.be/-Qui-sommes-nous-.html?lang=fr).
 
 <img src="images/mois_pluie_dt.png"/>
 
