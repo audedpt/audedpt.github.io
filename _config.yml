@@ -3,8 +3,7 @@ logo: "/images/profile.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Data Scientist with a master's degree in Computer Engineering and Management specialist focus on Artificial Intelligence and Decision Aid from UMons Polytechnic Faculty. Currently Functional Analyst at Smals. 
   <br><br>
-  Someone said "Maybe stories are just data with a soul". Well great, I'm not good at telling stories, but I'm good at data. 
-  <br><br>
+
   <a href="https://www.linkedin.com/in/audedpt/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
