@@ -28,7 +28,7 @@ This project involves training a neural network based on MobileNet architecture 
 ### Object recognition with a humanoid robot
 Integrate YOLO V2 into humanoïd robot Pepper for classification and object recognition in real time.
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Pepper_thumbnail_2.png?raw=true"/>
 
 [View project presentation on Youtube](https://youtu.be/oR90AfM_8Po)
 
