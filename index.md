@@ -12,14 +12,14 @@ Modelling of honey production from a hive using meteorological data and beekeepi
 
 ---
 ### Fraud detection in Delhaize stores
-Elaborate a dashboard for Fraud detection in the undelivered goods claiming process of stores. This project required to elaborate a dimentional data model and to translate the business's KPI into visualisations. The aim was to accellerate the investigation process on the suspicious stores and to gather more data on actual fraudulent cases. 
+Elaborate a dashboard for fraud detection in the undelivered goods claiming process of stores. This project required to elaborate a dimensional data model and to translate the business's KPI into visualisations. The aim was to accelerate the investigation process on the suspicious stores and to gather more data on actual fraudulent cases. 
 
 <img src="images/stage_thumbnail_en.png?raw=true"/>
 
 [![](https://img.shields.io/badge/Power%20Bi-white?logo=powerbi)](#) [![](https://img.shields.io/badge/Microsoft%20Azure-white?logo=microsoftazure&logoColor=%230078D4)](#) [![](https://img.shields.io/badge/PySpark-white?logo=apachespark&logoColor=%23E25A1C)](#) 
 
 ---
-### Recognizoo, Application for identifying and collecting personnal information on animals
+### Recognizoo, application for identifying and collecting personnal information on animals
 This project involves training a neural network based on MobileNet architecture to identify an elephent as an individual among its fellow creatures in an animal park. To implement a POC, we collaborated with [Pairi Daiza](https://www.pairidaiza.eu/fr/decouvrir-le-parc), who helped us collect an image database of their elephant family. 
 
 <img src="images/Recognizoo_mockup.jpg?raw=true" height="300"/>
