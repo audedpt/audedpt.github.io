@@ -1,8 +1,8 @@
-## Selected project in data science and machine learning
+## Selected project in Data Science and Machine Learning
 
 ---
 ### Technology at the service of beekeeping, predictive analysis of honey flow according to meteorological parameters
-Modelling of honey production from a hive according to meteorological data and beekeeping scales. Cleaning, data analysis and supervised learning with a decision tree. This project was made in collaboration with the [Cari](https://cari.be/-Qui-sommes-nous-.html?lang=fr).
+Modelling of honey production from a hive based on meteorological data and beekeeping scales. The work consist in data cleaning, data analysis and supervised learning with a decision tree. This project was made in collaboration with the [Cari](https://cari.be/-Qui-sommes-nous-.html?lang=fr), a beekeeping research and information center.
 
 <img src="images/mois_pluie_dt.png"/>
 
