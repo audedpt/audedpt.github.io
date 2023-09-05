@@ -12,7 +12,7 @@ Modelling of honey production from a hive using meteorological data and beekeepi
 ### Fraud detection in Delhaize stores
 Elaborate a dashboard for Fraud detection in the undelivered goods claiming process of stores. This project required to elaborate a dimentional data model and to translate the business's KPI into visualisations. The aim was to accellerate the investigation process on the suspicious stores and to gather more data on actual fraudulent cases. 
 
-<img src="images/stage_thumbnail.png?raw=true"/>
+<img src="images/stage_thumbnail_en.png?raw=true"/>
 
 ---
 ### [Recognizoo, Outil d’identification d’individus au sein d’un groupe d’animaux](/sample_page)
