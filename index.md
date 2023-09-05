@@ -2,7 +2,7 @@
 
 ---
 ### Technology at the service of beekeeping, predictive analysis of honey flow according to meteorological parameters
-Modelling of honey production from a hive based on meteorological data and beekeeping scales. The work consist in data cleaning, data analysis and supervised learning with a decision tree. This project was made in collaboration with the [Cari](https://cari.be/-Qui-sommes-nous-.html?lang=fr), a beekeeping research and information center.
+Modelling of honey production from a hive using meteorological data and beekeeping scales. Training a decision tree as a supervised learning algorithm. Receiving data from [RMI](https://www.meteo.be/en/about-rmi/strategy) and cleaning data from beekeeper scales. This project was made in collaboration with the [Cari](https://cari.be/-Qui-sommes-nous-.html?lang=fr), a beekeeping research and information center.
 
 <img src="images/mois_pluie_dt.png"/>
 
