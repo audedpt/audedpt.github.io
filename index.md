@@ -41,7 +41,7 @@ Integrate YOLO V2 into humanoïd robot Pepper for classification and object reco
 
 ---
 ### Rocket landing with reinforcment learning
-A PC game in which the player must land a rocket safely on Earth by adjusting the engine's power while ensuring he has enough fuel.  In this project, a agent is trained to play that game by reinforcment learning (Q-Learning) so that he gets a high score. 
+A PC game in which the player must land a rocket safely on Earth by adjusting the engine's power while ensuring he has enough fuel.  In this project, an agent is trained to play that game by reinforcment learning (Q-Learning) so that he gets a high score. 
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Anaconda-white?logo=anaconda&logoColor=%2344A833)](#)
 
