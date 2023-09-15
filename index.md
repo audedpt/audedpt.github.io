@@ -1,4 +1,4 @@
-## Selected project in Data Science and Machine Learning
+## Selected projects in Data Science and Machine Learning
 
 ---
 ### Technology at the service of beekeeping, predictive analysis of honey flow according to meteorological parameters
